@@ -1,2 +1,1 @@
-# prepcourse-henry
-esto es un repositorio de pruba
+prueba de como crear un repositorio desde git hub 
